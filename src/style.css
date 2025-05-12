@@ -3,3 +3,11 @@
 body{
     background: white;
 }
+.bonito{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 128, 0);
+    flex-direction: column;
+}
